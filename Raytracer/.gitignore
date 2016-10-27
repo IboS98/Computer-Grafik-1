@@ -1,0 +1,13 @@
+build/
+dist/
+nbproject/
+test/
+out/
+.settings/
+.idea/
+img/
+.classpath
+.project
+Raytracer.iml
+build.xml
+manifest.mf
